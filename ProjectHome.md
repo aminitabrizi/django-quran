@@ -1,0 +1,1 @@
+Django-quran provides an easy way to integrate The Holy Quran in your site. It also provides different translations.
